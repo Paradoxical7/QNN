@@ -23,4 +23,4 @@ pip install qiskit qiskit-aer qiskit-machine-learning torch torchvision numpy ma
 Open `qnn_mnist.ipynb` in Jupyter or VS Code and run cells sequentially.
 
 ##
-Research paper - 
+Research Paper - 
