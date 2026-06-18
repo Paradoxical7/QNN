@@ -21,3 +21,6 @@ Co-authored research paper: *A Study of Quantum Neural Networks in Machine Learn
 pip install qiskit qiskit-aer qiskit-machine-learning torch torchvision numpy matplotlib scikit-learn
 ```
 Open `qnn_mnist.ipynb` in Jupyter or VS Code and run cells sequentially.
+
+##
+Research paper - 
